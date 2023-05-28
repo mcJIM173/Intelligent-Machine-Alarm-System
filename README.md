@@ -1,5 +1,5 @@
 # Intelligent-Machine-Alarm-System
-This system was developed by USCC Lab. It is deployed within a company's industrial simulation intelligent diagnosis platform. The system consists of both software and hardware components. The following description focuses only on the software part, and detailed documentation is private.le.
+This system was developed by USCC Lab. It is deployed within a company's industrial simulation intelligent diagnosis platform. The system consists of both software and hardware components. The following description focuses only on the software part, and detailed documentation is private.
 
 ## Main.ino
 
