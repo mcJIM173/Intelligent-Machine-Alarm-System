@@ -1,7 +1,5 @@
 # Intelligent-Machine-Alarm-System
-This project was built for a company's Industrial simulation intelligent diagnosis platform.
-
-This system is a machine alarm simulation system developed in collaboration between me and the USCC Lab. It is deployed within a company's industrial simulation diagnostic platform. The system consists of both software and hardware components. The following description focuses only on the software part, and detailed documentation is not publicly available.
+This system was developed by USCC Lab. It is deployed within a company's industrial simulation intelligent diagnosis platform. The system consists of both software and hardware components. The following description focuses only on the software part, and detailed documentation is private.le.
 
 ## Main.ino
 
